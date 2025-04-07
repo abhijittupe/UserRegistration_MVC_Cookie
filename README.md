@@ -1,4 +1,4 @@
-user reigstration using servlet api, cookie and mvc architecture
+user registration using servlet api, cookie and mvc architecture
 
 
 table syntax
